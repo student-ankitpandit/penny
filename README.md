@@ -72,3 +72,6 @@ penny/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are always welcome! Feel free to check out the issues page if you'd like to help improve Penny.
+
+---
+*✨ Note: This project is purely vibe coded.*
