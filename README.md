@@ -1,7 +1,5 @@
-<div>
-  <h1>Penny</h1>
-  <p>A beautiful, intuitive, and modern personal finance tracker built with React Native and Expo.</p>
-</div>
+<h1>Penny</h1>
+<p>A beautiful, intuitive, and modern personal finance tracker built with React Native and Expo.</p>
 
 ---
 
@@ -72,6 +70,3 @@ penny/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are always welcome! Feel free to check out the issues page if you'd like to help improve Penny.
-
----
-*✨ Note: This project is purely vibe coded.*
